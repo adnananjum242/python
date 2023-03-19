@@ -29,6 +29,10 @@ Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
 
-[^1]: My reference.
+[^1]: My reference.Like a scene in a movie or a verse in a song, paragraphs are the building blocks of any good piece of writing. Paragraphs lend a natural rhythm to your writing that makes it a joy to read. The question is, how do you handle them successfully? 
+
+Below, we take a close look at what makes up an effective paragraph and explain how to write one that suits your needs. We also cover some advanced tips. But first, let’s start with the fundamentals. 
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+  This is a second line.Like a scene in a movie or a verse in a song, paragraphs are the building blocks of any good piece of writing. Paragraphs lend a natural rhythm to your writing that makes it a joy to read. The question is, how do you handle them successfully? 
+
+Below, we take a close look at what makes up an effective paragraph and explain how to write one that suits your needs. We also cover some advanced tips. But first, let’s start with the fundamentals. 
